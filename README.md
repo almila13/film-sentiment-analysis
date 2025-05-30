@@ -16,9 +16,7 @@ This mini AI project analyzes YouTube comments on a movie trailer to evaluate ho
 - **IMDb Score:** 7.6  
 - **AI Sentiment Score:** 0.18 (neutral-positive)
 
-## 📊 Output
 
-![Sentiment Graph](screenshot.png)
 
 ## 💻 Tools Used
 
